@@ -1,0 +1,19 @@
+{
+  "name": "web_tetris_ppuyo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NaHut/web_tetris_ppuyo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NaHut/web_tetris_ppuyo/issues"
+  },
+  "homepage": "https://github.com/NaHut/web_tetris_ppuyo#readme"
+}
